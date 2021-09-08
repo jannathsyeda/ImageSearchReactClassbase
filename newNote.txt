@@ -1,0 +1,18 @@
+css- semantic linkup in index.html in public.
+semantic cdn ,min link
+
+*onClick={onInputClick }
+onClick is use for focusing input field in this prj.
+
+onChange={onInputChange}
+for input changing by event.target.value
+
+onsubmit enent handler for form
+*upsplash api for api request
+this project use axios for data fetch
+
+npm install --save axios
+import axios from 'axios';
+
+*ref learn from,
+*how to use grid  and dom access for every image heigt with span functions
